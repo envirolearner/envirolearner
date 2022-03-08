@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @envirolearner
 - 👀 I’m interested in ... environmental engineering, data visualization, and programming for work.
 - 🌱 I’m currently learning ... Power BI and working towards VBA and Python.
-- 💞️ I’m looking to collaborate on ... environmental work.
+- 💞️ I’m looking to collaborate on ... environmental work and data analytics.
 - 📫 How to reach me ... through GitHub.
 
 <!---
